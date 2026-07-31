@@ -13,31 +13,31 @@ window.MO_PRODUCT_WIDGETS.push({
     {
       image_url: "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/a91e3cda47c645abaee6caa06d345f50~tplv-aphluv4xwc-resize-jpeg:300:300.jpeg?dr=15584&t=555f072d&ps=933b5bde&shp=5aca9457&shcp=9b759fb9&idc=my2&from=1523225687",
       product_name: "Penbose Tã Bỉm Dán Quần 50 miếng Size S đến XXXL",
-      price: "89,000₫",
+      price: "137,970đ",
       tracking_link: "https://ez.rutgon.me/vtDA7jR"
     },
     {
       image_url: "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/41b2afd8fc064dcda1ae89d1427510ce~tplv-aphluv4xwc-resize-jpeg:300:300.jpeg?dr=15584&t=555f072d&ps=933b5bde&shp=5aca9457&shcp=9b759fb9&idc=my2&from=1523225687",
       product_name: "Tã/Bỉm Đêm Nabizam Signature Summer",
-      price: "470,000₫",
+      price: "125,000đ",
       tracking_link: "https://ez.rutgon.me/vtLExWx"
     },
     {
       image_url: "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/b579bdd5ba6a4f2ea5809ff1c0208645~tplv-aphluv4xwc-resize-jpeg:300:300.jpeg?dr=15584&t=555f072d&ps=933b5bde&shp=5aca9457&shcp=9b759fb9&idc=my2&from=1523225687",
       product_name: "Tã dán bỉm quần Moony trắng dịu nhẹ natural cao cấp ",
-      price: "159,000₫",
+      price: "350,500đ",
       tracking_link: "https://ez.rutgon.me/vtlwRza"
     },
     {
       image_url: "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/0b8f3cfece2b4285b3097322f6704904~tplv-aphluv4xwc-resize-jpeg:300:300.jpeg?dr=15584&t=555f072d&ps=933b5bde&shp=5aca9457&shcp=9b759fb9&idc=my2&from=1523225687",
       product_name: "Bình trữ sữa 150ml (Bộ 3 bình đựng sữa bột) FatzBaby Xanh/Hồng",
-      price: "199,000₫",
+      price: "124,999đ",
       tracking_link: "https://ez.rutgon.me/vtsoU97"
     },
     {
       image_url: "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/fc93878657e94a9ca943e39d6e5df1b0~tplv-aphluv4xwc-resize-jpeg:300:300.jpeg?dr=15584&t=555f072d&ps=933b5bde&shp=5aca9457&shcp=9b759fb9&idc=my2&from=1523225687",
       product_name: "Thùng 24 x 110ml hộp sữa bột pha sẵn GrowPLUS+ A2 beta-casein",
-      price: "259,000₫",
+      price: "424,000đ",
       tracking_link: "https://ez.rutgon.me/vtszg8c"
     },
     {
