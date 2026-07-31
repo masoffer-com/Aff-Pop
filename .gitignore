@@ -1,0 +1,11 @@
+Dockerfile-local
+web-local.conf
+package-lock.json
+/node_modules
+.idea
+yarn.lock
+.DS_Store
+SCRIPT
+.env.local
+src/index.min.js
+public/
